@@ -14,7 +14,9 @@ def mashina_keldi(davlat_raqami):
     hour = current_time.hour
     hour2 = two_hours_later.hour
     print(hour,hour2)
-    a = hour2 - hour    
+    delta_hour = hour2 - hour  
+    per_hour_price =10000  
+    total = per_hour_price *  delta_hour
     Kirish = True
     if Kirish == True:
         with open(combine,"a",encoding="utf-8") as file:
@@ -22,6 +24,6 @@ def mashina_keldi(davlat_raqami):
         with open(combine,"a",encoding="utf-8") as file:
             file.write(f"{vaqt2},chiqish,{davlat_raqami} avtoturargohga chiqdi \n")
     with open(combine,"a",encoding="utf-8") as file:
-        file.write(f"parkovka 1soat 10 min ,shunda siz {a}-soat o'tirdingiz shunda siz:{10 * a} ming to'lashingiz kerak\n \n")
+        file.write(f"parkovka 10,000 so'm/soat,Siz turgan vaqt: {delta_hour}-soat, To'lov:{total:,.0f} so'm to'lashingiz kerak\n \n")
 
 mashina_keldi("01,A,777,AA")

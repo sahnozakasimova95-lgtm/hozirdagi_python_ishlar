@@ -1,61 +1,16 @@
-[2026-06-04 16:52:53],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 16:52:55],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 16:53:44],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:53:44],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min , 2 sizniki demak:20 ming 
-[2026-06-04 16:53:55],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:53:55],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min , 2 sizniki demak:20 ming 
-[2026-06-04 16:53:56],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:53:56],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min , 2 sizniki demak:20 ming 
-[2026-06-04 16:53:57],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:53:57],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min , 2 sizniki demak:20 ming 
-[2026-06-04 16:53:58],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:53:58],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min , 2 sizniki demak:20 ming 
-[2026-06-04 16:54:16],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:54:16],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min , 2 sizniki demak:20 ming 
- 
-[2026-06-04 16:54:24],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:54:24],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min , 2 sizniki demak:20 ming 
- 
-[2026-06-04 16:54:25],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:54:25],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min , 2 sizniki demak:20 ming 
- 
-[2026-06-04 16:54:42],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:54:42],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min , 2 sizniki demak:20 ming 
- 
-[2026-06-04 16:54:48],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:54:48],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min , 2 sizniki demak:20 ming 
- 
-[2026-06-04 16:54:49],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:54:49],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min , 2 sizniki demak:20 ming 
- 
-[2026-06-04 16:55:29],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:55:29],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min ,shunda siz 2-soat sizniki demak:20 ming 
- 
-[2026-06-04 16:56:10],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:56:10],chiqish,01,A,777,AA avtoturargohga chiqdi 
+[2026-06-06 06:07:20],Kirish,01,A,777,AA avtoturargohga kirdi 
+[2026-06-06 08:07:20],chiqish,01,A,777,AA avtoturargohga chiqdi 
 parkovka 1soat 10 min ,shunda siz 2-soat o'tirdingiz shunda siz:20 ming to'lashingiz kerak
  
-[2026-06-04 16:56:17],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:56:17],chiqish,01,A,777,AA avtoturargohga chiqdi 
+[2026-06-06 06:07:31],Kirish,01,A,777,AA avtoturargohga kirdi 
+[2026-06-06 08:07:31],chiqish,01,A,777,AA avtoturargohga chiqdi 
 parkovka 1soat 10 min ,shunda siz 2-soat o'tirdingiz shunda siz:20 ming to'lashingiz kerak
  
-[2026-06-04 16:56:18],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:56:18],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min ,shunda siz 2-soat o'tirdingiz shunda siz:20 ming to'lashingiz kerak
- 
-[2026-06-04 16:56:19],Kirish,01,A,777,AA avtoturargohga kirdi 
-[2026-06-04 18:56:19],chiqish,01,A,777,AA avtoturargohga chiqdi 
-parkovka 1soat 10 min ,shunda siz 2-soat o'tirdingiz shunda siz:20 ming to'lashingiz kerak
+[2026-06-06 06:14:12],Kirish,01,A,777,AA avtoturargohga kirdi 
+[2026-06-06 08:14:12],chiqish,01,A,777,AA avtoturargohga chiqdi 
+
+
+[2026-06-06 06:14:28],Kirish,01,A,777,AA avtoturargohga kirdi 
+[2026-06-06 08:14:28],chiqish,01,A,777,AA avtoturargohga chiqdi 
+parkovka 10,000 so'm/soat,Siz turgan vaqt: 2-soat, To'lov:20,000 so'm to'lashingiz kerak
  
